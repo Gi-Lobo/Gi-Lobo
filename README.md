@@ -1,6 +1,6 @@
-# 👋 Olá! Eu sou [Seu Nome Aqui]
+# 👋 Olá! Eu sou a Giovana Lobo!
 
-Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitHub**, **programação** e **criação de projetos web e mobile**. Tenho interesse especial em [escreva seu interesse aqui: ex. Front-End, Back-End, Mobile, Banco de Dados, UX/UI, etc.].
+Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitHub**, **programação** e **criação de projetos web e mobile**. Tenho interesse especial em Back-End, Mobile, Banco de Dados e Metodologias Ágeis.
 
 ---
 
@@ -15,10 +15,10 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 
 ### Back-End
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![IntellIJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
 
 ### Mobile
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
@@ -36,17 +36,15 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 | **Nome do Projeto 2** | [🔗 Ver online](https://seu-link.com) | Node.js / Express / MySQL|
 | **Nome do Projeto 3** | [🔗 Ver online](https://seu-link.com) | Flutter / Dart           |
 
-> 💡 Dica: Quando você publicar um projeto no GitHub Pages, coloque o link aqui!
-
 ---
 
 ## 💡 Sobre Mim
 
-- 🎓 Atualmente estudo no **[Nome da sua escola]**
-- 💻 Estou aprendendo **[tecnologias que está aprendendo]**
-- 🎯 Meu objetivo é **[coloque seu objetivo, exemplo: ser desenvolvedor Full Stack]**
-- 📚 Gosto de aprender sobre **[áreas de interesse]**
-- ✝ [Se quiser, coloque uma frase ou versículo que te inspire]
+- 🎓 Atualmente estudo no SENAI/SESI
+- 💻 Estou aprendendo Java, Arduino e Git/Git Hub.
+- 🎯 Meu objetivo é me desenvolver na área de Sistemas de Informação, com foco em engenharia de requisitos, back-end e análise de dados, integrando tecnologia com soluções organizacionais. Pretendo atuar em projetos que envolvam tanto o aspecto técnico, mas também a parte social e comunicativa.
+- 📚 Gosto de aprender sobre tecnologia, comunicação e literartura.
+- "Não se preocupe em entender, viver ultrapassa qualquer entendimento." ~ Clarice Lispector
 
 ---
 
