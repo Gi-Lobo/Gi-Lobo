@@ -44,7 +44,7 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 - 💻 Estou aprendendo Java, Arduino e Git/Git Hub.
 - 🎯 Meu objetivo é me desenvolver na área de Sistemas de Informação, com foco em engenharia de requisitos, back-end e análise de dados, integrando tecnologia com soluções organizacionais. Pretendo atuar em projetos que envolvam tanto o aspecto técnico, mas também a parte social e comunicativa.
 - 📚 Gosto de aprender sobre tecnologia, comunicação e literartura.
-- "Não se preocupe em entender, viver ultrapassa qualquer entendimento." ~ Clarice Lispector
+- 📖 "Não se preocupe em entender, viver ultrapassa qualquer entendimento." ~ Clarice Lispector
 
 ---
 
